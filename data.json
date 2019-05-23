@@ -1,0 +1,10 @@
+{
+  "_index": "conductor.runtime.int.workflow",
+  "_type": "workflow",
+  "_id": "cac49087-c4bb-410c-93c8-795950c58ecd",
+  "_version": 1,
+  "found": true,
+  "_source": {
+    "foo": "bar"
+  }
+}
